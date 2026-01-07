@@ -1,7 +1,7 @@
 🔐 Password Strength Checker
 
 live demo link:
-https://Jake-GB123.github.io/passwordstrengthchecker/
+[https://Jake-GB123.github.io/passwordstrengthchecker/](https://jake-gb123.github.io/PasswordStrengthChecker/)
 
 A client-side password strength checker built with HTML, CSS, and JavaScript that evaluates passwords in real time using length, character diversity, and an entropy estimate. The tool detects common weaknesses such as dictionary words, keyboard patterns, sequences, and repeated characters, then returns a 0–100 score with clear, actionable feedback.
 
